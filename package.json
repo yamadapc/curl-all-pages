@@ -1,0 +1,15 @@
+{
+  "name": "curl-all-pages",
+  "version": "1.0.0",
+  "description": "Wrapper on top of curl to follow Link headers",
+  "main": "lib/index.js",
+  "bin": "bin/curl-all-pages",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Tacla Yamada",
+  "license": "MIT",
+  "dependencies": {
+    "parse-link-header": "^0.4.1"
+  }
+}
