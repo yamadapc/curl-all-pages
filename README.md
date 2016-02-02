@@ -29,3 +29,6 @@ Outputs on `stdout`
 
 ## License
 MIT
+
+## Donations
+Would you like to buy me a beer? Send bitcoin to 3JjxJydvoJjTrhLL86LGMc8cNB16pTAF3y
